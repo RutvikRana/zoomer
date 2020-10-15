@@ -4,9 +4,8 @@
 Zoomer - To Zoom Any Widget
 
 ## preview
-![The example app running in Android](video_example/96.gif)
-
-## what We Can Do?
+<img src="video_example/96.gif" alt="" width="200" height="200">
+## What It Can Do?
 * Zoom
 * Rotate
 * Translate
