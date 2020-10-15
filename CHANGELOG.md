@@ -1,3 +1,7 @@
+## [0.0.3]
+
+* Fixed Example Gif for pub readme.md
+
 ## [0.0.2]
 
 * Improved Documentation.
