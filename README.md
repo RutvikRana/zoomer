@@ -4,7 +4,7 @@
 Zoomer - To Zoom Any Widget
 
 ## preview
-<img src="video_example/96.gif" alt="" width="200" height="200">
+<img src="https://raw.githubusercontent.com/RutvikRana/zoomer/main/video_example/96.gif" alt="" width="200" height="200">
 
 ## What It Can Do?
 * Zoom
