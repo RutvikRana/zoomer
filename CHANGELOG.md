@@ -1,3 +1,7 @@
+## [0.0.4]
+
+* Fixed ZoomerController Class
+
 ## [0.0.3]
 
 * Fixed Example Gif for pub readme.md
