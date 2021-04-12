@@ -1,6 +1,6 @@
 name: zoomer
 description: Zoomer Widget To Create Zoomable Child Widget. You Can Optionaly Translate or Rotate It. Zoomer Can Controlled By ZoomerController. Can Get/Set Properties of scale,offset,rotation. can Give Callbacks to start,update,end Zoom event.
-version: 0.0.2
+version: 0.0.4
 homepage: https://github.com/RutvikRana
 repository: https://github.com/RutvikRana/zoomer
 environment:
